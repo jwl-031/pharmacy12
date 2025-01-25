@@ -11,7 +11,7 @@
 
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[click here](https://pharmacy12.vercel.app/)
 
 ### Project Description
 PharmaGuide is a web application designed to provide users with detailed information about medicines. The application allows users to search for medicines and view comprehensive details such as uses, dosage, warnings, and side effects.
